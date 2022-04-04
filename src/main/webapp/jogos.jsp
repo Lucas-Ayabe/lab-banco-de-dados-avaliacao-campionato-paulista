@@ -10,7 +10,7 @@
         <title>Jogos</title>
         <link
             rel="stylesheet"
-            href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css"
+            href="./css/pico.min.css"
         />
         <link
             rel="stylesheet"
